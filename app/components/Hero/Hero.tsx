@@ -6,7 +6,7 @@ import StarField from './StarField';
 
 export default function Hero() {
   const title = "Bienvenidos";
-  const subtitle1 = "Soy Gatilla y soy";
+  const subtitle1 = "Soy Junior Segura y soy";
   const subtitle2 = "Desarrollador Junior";
 
   return (
