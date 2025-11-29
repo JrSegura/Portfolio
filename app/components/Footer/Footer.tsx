@@ -179,7 +179,7 @@ export default function Footer() {
           className="text-center space-y-4"
         >
           <p className="text-gray-500 text-sm">
-            Diseñado y desarrollado por <span className="text-red-500">♥</span> por Junior Segura
+            Diseñado y desarrollado con <span className="text-red-500">♥</span> por Junior Segura
           </p>
  
         </motion.div>
